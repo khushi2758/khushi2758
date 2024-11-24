@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khushi Bera 
 - 👀 I’m interested in full-stack development 
-- 🌱 I’m currently learning rect.js
+- 🌱 I’m currently learning react.js
 
 
 <!---
