@@ -16,7 +16,7 @@
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **kbera5631@gmail.com**
-ff
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khushi-bera-49baa6282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-bera-49baa6282" height="30" width="40" /></a>
