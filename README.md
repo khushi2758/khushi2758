@@ -268,15 +268,7 @@ A full-stack railway asset management solution developed as part of **Smart Indi
 </p>
 
 ---
-## 🐍 Animated Contributions
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/khushi2758/khushi2758/output/github-contribution-grid-snake-dark.svg" 
-    alt="Animated GitHub Contributions" 
-    width="95%"
-  />
-</p>
 ## Current Focus
 
 ```yaml
@@ -306,3 +298,6 @@ Open To:
   - AI Engineering Opportunities
   - Open-Source Collaboration
 
+````
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4b3f8f,100:6a5acd&height=100&section=footer" alt="Footer" />
