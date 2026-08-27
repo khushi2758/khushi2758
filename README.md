@@ -26,16 +26,42 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🤖 AI-Agent — Full-Stack Multi-Agent AI Platform
+
+A full-stack multi-agent AI platform designed to build and orchestrate intelligent AI workflows.
+
+**Tech Stack:** React • Next.js • Node.js • MongoDB • LangGraph • Docker
+
+🔗 <a href="https://github.com/khushi2758/Ai-agent">View Repository</a>
+
+
+### 🌾 Agri-Vest — AI-Powered Farmland Investment Platform
+
+An AI-powered farmland investment platform that transforms agricultural assets into data-driven, investable opportunities using the AGV token system.
+
+**Tech Stack:** TypeScript • React • Next.js • Node.js • MongoDB • AI/ML
+
+🔗 <a href="https://github.com/khushi2758/Agri-Vest">View Repository</a>
+
+
+### 📄 AI Resume Analyzer
+
+A React-based AI application that analyzes resumes using natural language processing to evaluate structure, keyword density, and overall job readiness.
+
+**Tech Stack:** React • JavaScript • AI/NLP
+
+🔗 <a href="https://github.com/khushi2758/AI_Resumv_analyzer">View Repository</a>
+
 
 ### 🚆 Railway Asset Management System — SIH 2025
 
-A full-stack solution developed for **Smart India Hackathon 2025** to improve railway asset management and monitoring.
+A full-stack railway asset management solution developed for **Smart India Hackathon 2025**, focused on improving railway asset monitoring and management.
 
-🔗 **Repository:**  
-<a href="https://github.com/khushi2758/Railway-SIH2025">
-  Railway-SIH2025
-</a>
+**Tech Stack:** React • Node.js • MongoDB • JavaScript
+
+🔗 <a href="https://github.com/khushi2758/Railway-SIH2025">View Repository</a>
 
 ---
 
