@@ -268,6 +268,23 @@ A full-stack railway asset management solution developed as part of **Smart Indi
 </p>
 
 ---
+<h2 align="center">🧩 Contribution Activity</h2>
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/khushi2758/khushi2758/output/github-contribution-grid-snake-dark.svg"
+  alt="Animated GitHub Contribution Snake"
+  width="95%"
+/>
+
+<br><br>
+
+<p>
+  <i>Building, learning, and contributing — one commit at a time. 🚀</i>
+</p>
+
+</div>
 
 ## Current Focus
 
