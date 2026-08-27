@@ -268,7 +268,15 @@ A full-stack railway asset management solution developed as part of **Smart Indi
 </p>
 
 ---
+## 🐍 Animated Contributions
 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/khushi2758/khushi2758/output/github-contribution-grid-snake-dark.svg" 
+    alt="Animated GitHub Contributions" 
+    width="95%"
+  />
+</p>
 ## Current Focus
 
 ```yaml
@@ -297,3 +305,4 @@ Open To:
   - Full-Stack Development Roles
   - AI Engineering Opportunities
   - Open-Source Collaboration
+
