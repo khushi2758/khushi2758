@@ -253,13 +253,7 @@ A full-stack railway asset management solution developed as part of **Smart Indi
 
 ---
 
-## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushi2758&bg_color=00000000&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&hide_border=true" alt="Contribution Activity Graph" width="95%" />
-</p>
-
----
 
 ## Contribution Snake
 
@@ -268,7 +262,7 @@ A full-stack railway asset management solution developed as part of **Smart Indi
 </p>
 
 ---
-<h2 align="center">🧩 Contribution Activity</h2>
+<h2 align="center"> Contribution Activity</h2>
 
 <div align="center">
 
@@ -285,7 +279,7 @@ A full-stack railway asset management solution developed as part of **Smart Indi
 </p>
 
 </div>
-
+---
 ## Current Focus
 
 ```yaml
